@@ -1,6 +1,6 @@
 ---
 title: "Welcome to my blog"
-theme: "minima"
+theme: minima
 ---
 
 it's my first blog on github
